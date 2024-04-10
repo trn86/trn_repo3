@@ -3,4 +3,5 @@ packages:
     version: 1.1.1
 
 projects:
-  - name: trn_proj_1,trn_proj_2
+  - name: trn_proj_1
+  - name: trn_proj_2
