@@ -1,6 +1,6 @@
 {{  
 config(
-        alias = 'fct_customers',
+        alias = 'fct_customers_temp',
         schema= 'dwh',
         materialized='table',
     )
